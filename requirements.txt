@@ -1,0 +1,12 @@
+Django==2.2.2
+djangorestframework==3.9.4
+pytz==2019.1
+sqlparse==0.3.0
+djangorestframework-simplejwt
+gunicorn
+django-heroku
+mysqlclient
+django-cors-headers
+channels
+asgi_redis
+channels_redis

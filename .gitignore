@@ -1,0 +1,8 @@
+*.pyc
+venv/
+.idea
+.vscode/
+scheduler_app/migrations/*
+scheduler_teams/migrations/*
+scheduler_chat/migrations/*
+scheduler_tasks/migrations/*
